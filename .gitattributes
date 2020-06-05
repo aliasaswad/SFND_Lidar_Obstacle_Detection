@@ -1,0 +1,2 @@
+# mark makefile as generated
+build/Makefile linguist-generated=true
